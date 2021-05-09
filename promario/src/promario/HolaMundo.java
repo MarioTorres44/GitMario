@@ -5,6 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) 
 		{
 			System.out.println("HolaMundo1");
+			System.out.println("HolaMundo2");
 		}
 
 }
