@@ -2,9 +2,17 @@ package promario;
 
 public class HolaMundo {
 
+<<<<<<< HEAD
 	int dividir (int a, int b)
+=======
+	int multiplicar (int a, int b)
+>>>>>>> branch 'master' of https://github.com/MarioTorres44/GitMario.git
 		{
+<<<<<<< HEAD
 			return a / b;
+=======
+			return a * b;
+>>>>>>> branch 'master' of https://github.com/MarioTorres44/GitMario.git
 		}
 	
 	
