@@ -6,6 +6,7 @@ public class HolaMundo {
 		{
 			System.out.println("HolaMundo1");
 			System.out.println("HolaMundo2");
+			System.out.println("HolaMundo3 como Mario");
 		}
 
 }
